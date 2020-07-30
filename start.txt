@@ -1,1 +1,14 @@
-Test Goit quick start demo
+Test Git quick start demo
+
+git config --global user.name "Swetha180"
+git config --global user.email "swthswetha30@gmail.com"
+dir /s
+git clone "https://github.com/Swetha180/github-demo"
+clear
+echo "a quick git demo" >>start.txt
+git status
+cat start.txt -> will display the contents in cmd
+
+now to put the file in staging
+
+git add start.txt
