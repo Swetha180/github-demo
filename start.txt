@@ -22,4 +22,4 @@ push used to move from local machine to the github
 git push origin master
 
 origin -> the original repository
-master -> the branch we just clones
+master -> the branch we just cloned
